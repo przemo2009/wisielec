@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(68, 199, 199);
+    color: rgb(252, 252, 252);
+}
+div{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 40px;
+    padding: 10px;
+}
+input{
+    background-color: rgb(255, 255, 255);
+    color:black;
+    font-size: 30px;
+    text-align: center;
+    padding: 10px;
+    
+
+}
